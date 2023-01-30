@@ -1,1 +1,1 @@
-# stric
+# strict
